@@ -1,5 +1,6 @@
 #Imports
 from Modulos.Gestion_Usuarios import opcion_gestion_cliente
+from Modulos.ventas import opcion_menu_ventas
 from Modulos.Gestión_Servicios import *
 from config import *
 from Menus.menu_admin import *
@@ -7,8 +8,6 @@ from Menus.menu_catalogo import *
 from Cliente.cliente import *
 from Servicios.servicios import *
 from Productos.productos import *
-from Modulos.ventas import *
-from Menus.menu_ventas import *
 
 #Constants
 RUTA_CLIENTE = "Cliente/cliente.json"

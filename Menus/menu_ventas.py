@@ -1,9 +1,9 @@
 
+from Menus.menu_ventas import ver_catalogo
 from Menus.menu_admin import *
 from Menus.menu_catalogo import *
 from Modulos.ventas import *
 from Productos.productos import *
-from Menus.menu_ventas import ver_catalogo
 
 def opcion_registro_ventas(datos_servicio, datos_producto, opcion = 0):
     while True:
@@ -61,7 +61,7 @@ def opcion2_registro_ventas(datos_cliente, datos_servicio, datos_producto, opcio
 
 def menu_registro_ventas():
     print("\n*****************************************************")
-    print("Módulo: Ventas \ Registro y Gestión del Usuarios\n")
+    print("Módulo: Ventas / Registro y Gestión del Usuarios\n")
     print("1. Realizar Venta")
     print("2. Ver Factura específica")
     print("3. Salir a Menú Ventas")
