@@ -1,17 +1,7 @@
 from Menus.menu_ventas import *
+from Menus.menu_ventas import opcion_registro_ventas
 from Productos.productos import *
 from Servicios.servicios import listado_servicios
-
-def ver_catalogo(servicios, productos):
-    try:
-        print("\n*******************************************************\n")
-        print("*---CATALOGO---*")
-        ("\n*******************************************************\n")
-        listado_servicios(servicios)
-        listado_productos(productos)
-    except Exception as e:
-        registrar_error(e)
-        print("Error durante la ejecución. Revisar el log de errores.")
 
 def opcion_menu_ventas(datos_cliente, datos_servicio, datos_producto, opcion = 0):
     while True:

@@ -3,6 +3,17 @@ from Menus.menu_catalogo import *
 from Modulos.ventas import *
 from Productos.productos import *
 
+def ver_catalogo(servicios, productos):
+    try:
+        print("\n*******************************************************\n")
+        print("*---CATALOGO---*")
+        ("\n*******************************************************\n")
+        listado_servicios(servicios)
+        listado_productos(productos)
+    except Exception as e:
+        registrar_error(e)
+        print("Error durante la ejecución. Revisar el log de errores.")
+
 def opcion_registro_ventas(datos_servicio, datos_producto, opcion = 0):
     while True:
         try:

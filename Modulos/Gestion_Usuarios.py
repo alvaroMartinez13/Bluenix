@@ -12,11 +12,11 @@ def opcion_gestion_cliente(datos_cliente, opcion = 0):
             if opcion == 1:
                 menu_opcion_gestion_usuarios(datos_cliente)
             elif opcion == 2:
-                print(2)
+                print("¡¡En mantenimiento, vuelva pronto!!")
             elif opcion == 3:
-                print(3) 
+                print("¡¡En mantenimiento, vuelva pronto!!") 
             elif opcion == 4:
-                print(4) 
+                print("¡¡En mantenimiento, vuelva pronto!!") 
             elif opcion == 5:
                 break
         except Exception as e:

@@ -10,3 +10,4 @@
 2024-05-14 13:05:52 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
 2024-05-14 13:06:11 - Tipo de error: NameError, Mensaje: name 'ver_catalogo' is not defined
 2024-05-14 13:20:25 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: '& C:/Users/pc/AppData/Local/Programs/Python/Python312/python.exe c:/Users/pc/Downloads/Bluenix-main/main.py'
+2024-05-14 13:40:47 - Tipo de error: NameError, Mensaje: name 'ver_catalogo' is not defined
