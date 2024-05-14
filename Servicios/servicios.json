@@ -1,0 +1,18 @@
+{
+    "servicios": [
+        {
+            "tipo_servicio": "Internet de Fibra Optica",
+            "Caracteristicas": "xyz",
+            "precio": 12344,
+            "estado": true,
+            "popularidad": 0
+        },
+        {
+            "tipo_servicio": "Hogar Claro",
+            "Caracteristicas": "250MB Plan Tripleplay, 75GB Plan Claro Pospago",
+            "precio": 160000.0,
+            "estado": true,
+            "popularidad": 0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "usuario": [
+        {
+            "identificacion": "1010108847",
+            "nombre": "Alvaro Andres Martinez Alcina",
+            "email": "alvaro.martinezalcina13@gmail.com",
+            "celular": "3058597767",
+            "direccion": "calle 354",
+            "area geografica": "Bucaramanga, Santander",
+            "categoria": "Nuevo Cliente"
+        },
+        {
+            "nombre": "Daniel Numa",
+            "identificacion": "12345678",
+            "email": "wwww",
+            "celular": "30245466",
+            "direccion": "wedfgg",
+            "area geografica": "gggh",
+            "categoria": "Nuevo Cliente"
+        },
+        {
+            "nombre": "Juan David Fandio Ardila",
+            "identificacion": "120349450",
+            "email": "@gmail.com",
+            "celular": "302844956",
+            "direccion": "wdsfl",
+            "area geografica": "Bucaramanga, Santander",
+            "categoria": "Nuevo Cliente"
+        }
+    ]
+}

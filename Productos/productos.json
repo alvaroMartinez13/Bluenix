@@ -1,0 +1,48 @@
+{
+    "productos": [
+        {
+            "celular": [
+                {
+                    "identificacion": "c-0001",
+                    "nombre": "iPhone 12",
+                    "marca": "Apple",
+                    "caracteristica": "128GB, 4G, Camara 12Mpx + 12Mpx, Tamanio de Pantalla 6.1",
+                    "precio": 2729960.0,
+                    "cantidad": 6
+                }
+            ]
+        },
+        {
+            "computador": [
+                {
+                    "identificacion": "q-0001",
+                    "nombre": "Portatil HP 245",
+                    "marca": "HP",
+                    "caracteristica": "G9 14 AMD R3 + Maleta",
+                    "precio": 2260900.0,
+                    "cantidad": 4
+                },
+                {
+                    "identificacion": "q-0002",
+                    "nombre": "Portatil HP 243",
+                    "marca": "HP",
+                    "caracteristica": "G9 14 AMD R3 + Maleta",
+                    "precio": 2260900.0,
+                    "cantidad": 4
+                }
+            ]
+        },
+        {
+            "televisor": [
+                {
+                    "identificacion": "t-0001",
+                    "nombre": "TV TCL 55",
+                    "marca": "TCL",
+                    "caracteristica": "Combo TV TCL 55\" 55P635 LED 4K UHD Google TV + Barra de sonido S522W",
+                    "precio": 2625900.0,
+                    "cantidad": 6
+                }
+            ]
+        }
+    ]
+}

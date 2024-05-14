@@ -1,0 +1,42 @@
+{
+    "facturacion": [
+        {
+            "numero_facturacion": 1,
+            "usuario": {
+                "identificacion": "1010108847",
+                "nombre": "Alvaro Andres Martinez Alcina"
+            },
+            "servicios": {
+                "tipo_servicio": "Internet de Fibra Optica",
+                "Caracteristicas": "xyz",
+                "precio": 12344,
+                "tipo_pago": {
+                    "mensual": true,
+                    "semanal": false
+                }
+            },
+            "total_pagar": 282.48769230769227
+        },
+        {
+            "numero_facturacion": 45,
+            "usuario": {
+                "identificacion": "1010108847",
+                "nombre": "Alvaro Andres Martinez Alcina"
+            },
+            "productos": {
+                "tipo_producto": "televisor",
+                "identificacion": "t-0001",
+                "nombre": "TV TCL 55",
+                "marca": "TCL",
+                "caracteristica": "TCL",
+                "precio": 2625900.0,
+                "cantidad": 2,
+                "tipo_pago": {
+                    "mensual": true,
+                    "semanal": false
+                }
+            },
+            "total_pagar": 520803.5
+        }
+    ]
+}

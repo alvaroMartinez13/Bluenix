@@ -1,0 +1,11 @@
+2024-05-14 11:55:36 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: '--'
+2024-05-14 11:55:43 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: 'ww'
+2024-05-14 13:05:41 - Tipo de error: NameError, Mensaje: name 'ver_catalogo' is not defined
+2024-05-14 13:05:46 - Tipo de error: NameError, Mensaje: name 'ver_catalogo' is not defined
+2024-05-14 13:05:49 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:05:50 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:05:51 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:05:51 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:05:52 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:05:52 - Tipo de error: ValueError, Mensaje: invalid literal for int() with base 10: ''
+2024-05-14 13:06:11 - Tipo de error: NameError, Mensaje: name 'ver_catalogo' is not defined
