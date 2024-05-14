@@ -1,5 +1,3 @@
-
-from Menus.menu_ventas import ver_catalogo
 from Menus.menu_admin import *
 from Menus.menu_catalogo import *
 from Modulos.ventas import *
