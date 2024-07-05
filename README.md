@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Una breve descripción del proyecto y sus objetivos principales. Explica en pocas palabras de qué se trata el proyecto y qué problema soluciona.
+Un gestor de ventas enfocado en la adquisición, distribución y venta de productos y servicios. Donde el usuario administrador puede gestionar los usuarios y validar la adquisición de los productos que administra la empresa CLARO, desde su compra, su usabilidad y que tan viable es para los demás usuarios.  
 
 ## Tabla de Contenidos
 
@@ -26,6 +26,8 @@ cd bluenix
 python3 main.py
 ```
 ## Uso
+En primera instancia, el usuario administrador tendrá un menú principal donde puede seleccionar desde gestionar usuarios, servicios, ventas y realizar reportes sobre el seguimiento de los usuarios, las ventas y que tan viable ha sido los productos registrados.
+
 
 ## Contacto
 - LinkedIn: www.linkedin.com/in/alvaro-andres-martinez-alcina-4a0976316
