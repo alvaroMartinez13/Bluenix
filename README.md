@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Bluenix
 
 ## Descripción
 
@@ -27,6 +27,8 @@ python3 main.py
 ```
 ## Uso
 En primera instancia, el usuario administrador tendrá un menú principal donde puede seleccionar desde gestionar usuarios, servicios, ventas y realizar reportes sobre el seguimiento de los usuarios, las ventas y que tan viable ha sido los productos registrados.
+
+El usuario administrador podrá registrar, eliminar, actualizar y ver los clientes, al mismo tiempo se puede registrar, actualizar, eliminar y visualizar tanto los servicios y productos. Se podrá realizar visualizar a través de reportes la viabilidad de los productos y servicios.
 
 
 ## Contacto
